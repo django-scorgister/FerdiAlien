@@ -185,9 +185,38 @@ a {
 	box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.50);
 }
 
-.underNav {
-	
+.cellbody {
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
 }
+
+.card {
+	width: 500px;
+	border-radius: 5px;
+}
+
+.imgcard {
+	width: 300px;
+	border-radius: 5px;
+}
+
+.btn {
+	background-color: #34495e;
+	color: white;
+
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+	border-radius: 5px;
+}
+
+.p10 {
+	padding: 10px;
+	width: 90%;
+} 
 
 @media (min-width: 769px) {
 	.header,
