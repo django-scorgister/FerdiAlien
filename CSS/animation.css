@@ -1,0 +1,34 @@
+@keyframes title {
+
+    0% {
+      font-size: 20px;
+    }
+
+    100% {
+        font-size: 65px;
+     }
+    
+}
+
+@keyframes btnhover {
+   0% {
+      background-color: #1c4268;
+   }
+
+   100% {
+       background-color: #0d1f31;
+    }
+   
+}
+
+@keyframes btnnothover {
+
+   0% {
+      background-color: #0d1f31;
+   }
+
+   100% {
+      background-color: #1c4268;
+    }
+   
+}
