@@ -216,7 +216,11 @@ a {
 .p10 {
 	padding: 10px;
 	width: 90%;
-} 
+}
+
+.w300 {
+	width: 300px;
+}
 
 @media (min-width: 769px) {
 	.header,
